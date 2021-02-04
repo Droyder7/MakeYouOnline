@@ -47,7 +47,7 @@
 }
 
 .site-main .site-banner .site-title h3 {
-  padding-top: 35%;
+  padding-top: 20%;
   font-weight: 500;
 }
 
@@ -70,7 +70,7 @@
 }
 
 .site-main .site-banner .banner-image > img {
-  padding: 7rem 0;
+  padding: 5rem 0;
   width: 90rem;
 }
 
@@ -330,7 +330,7 @@ footer.footer-area .social h5 {
 footer.footer-area .social a > i {
   font-size: 22px;
   padding: 2rem;
-  color: var(--border-color);
+  color: lightblue;
 }
 
 footer.footer-area .social a:hover > i {
