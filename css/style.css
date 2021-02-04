@@ -139,11 +139,12 @@
 }
 
 .site-main .brand-area .experience-area .years-area {
-  background: url(../img/client-info-bg.png) no-repeat 45px 20px;
+  background: url(../img/client-info-bg.png) no-repeat 11rem 20px;
   padding: 2rem 0;
   width: 40rem;
   height: 18rem;
-  padding-left: 8rem;
+  padding-left: 10rem;
+  padding-top: 4rem;
   position: relative;
 }
 
@@ -274,7 +275,7 @@
 /* Subscribe me */
 
 .site-main .subscribe-us-area .subscribe {
-  background: url(../img/subscribe-bg.png) no-repeat;
+  background: url(../img/subscribe-bg.png) no-repeat center;
   padding: 10rem 0;
   margin: 3rem auto;
 }
